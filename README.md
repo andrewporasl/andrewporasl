@@ -2,7 +2,8 @@
 # 💫 Hey 👋! I'm Andrew, a full-stack dev!
 <br>
 
-
+- 🔭 I’m currently working on [fizik](https://github.com/andrewporasl/fizik)
+  
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/andrewporasl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewporasl" height="30" width="40" /></a>
